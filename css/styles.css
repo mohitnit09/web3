@@ -11,7 +11,7 @@ padding: 3% 15% 7%;
 }
 h1{
   font-family: 'Montserrat-bold', sans-serif;
-font-size: 3 rem;
+font-size: 3.5 rem;
 line-height: 1.5;
 
 }
@@ -22,7 +22,7 @@ h2{
 }
 h3{
   font-family: "Montserrat-bold";
-  font-size: 2rem;
+  font-size: 2.5rem;
   line-height: 1.5;
 }
 
@@ -33,7 +33,7 @@ a, a:hover, a:focus, a:active {
 
 p{
   line-height: 1.5;
-  font-size: 2rem;
+  font-size: 2.5rem;
 }
 /* navigation bar */
 .navbar{
@@ -43,14 +43,14 @@ p{
 .navbar-brand{
 
   font-family: "Montserrat-light";
-  font-size:3rem;
+  font-size:3.5rem;
   font-weight: bold;
 }
 .nav-item{
   padding: 0 18px;
 }
 .nav-link{
-  font-size: 1.5rem;
+  font-size: 2.5rem;
   font-family: "Montserrat-light";
 }
 .navbar-toggler-icon{
@@ -59,7 +59,7 @@ p{
 /* download buttons */
 .download-button{
   margin:5% 3%  5% 0;
-  font-size: 1.5rem;
+  font-size: 2rem;
 }
 /* title image */
 .title-image{
