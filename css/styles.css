@@ -33,6 +33,7 @@ a, a:hover, a:focus, a:active {
 
 p{
   line-height: 1.5;
+  font-size: 2rem;
 }
 /* navigation bar */
 .navbar{
@@ -55,10 +56,12 @@ p{
 /* download buttons */
 .download-button{
   margin:5% 3%  5% 0;
+  font-size: 1.5rem;
 }
 /* title image */
 .title-image{
   width:100%;
+
 
   right:30%;
 }
