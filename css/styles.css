@@ -53,6 +53,9 @@ p{
   font-size: 1.5rem;
   font-family: "Montserrat-light";
 }
+.navbar-toggler-icon{
+    font-size: 1.5em;
+}
 /* download buttons */
 .download-button{
   margin:5% 3%  5% 0;
